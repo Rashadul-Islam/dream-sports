@@ -1,7 +1,7 @@
 Features of my project:
 
 1. Using react, react-bootstrap, react-routing, font-awesome.
-2. Using [sports api] (https://www.thesportsdb.com/api.php) for collecting all the information.
+2. Using [sports api](https://www.thesportsdb.com/api.php) for collecting all the information.
 3. Homepage contains banner and cards.
 4. Banner contains website heading and banner image.
 5. Cards contains league logo, league name, sports type and explore button.
