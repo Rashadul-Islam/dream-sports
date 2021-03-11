@@ -12,4 +12,4 @@ Features of my project:
 10. All the information and images are set dynamically.
 
 
-Link of my website: 
+Link of my website: [link](https://stupefied-swanson-e05f72.netlify.app/)
