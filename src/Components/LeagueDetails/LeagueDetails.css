@@ -1,0 +1,57 @@
+#details-container {
+  background-color:gray;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: start;
+  margin-top: 20px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  box-shadow: 3px 6px 5px crimson;
+}
+
+#banner-logo {
+  width: 150px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#description-container {
+  margin-top: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+#gender-img {
+  width: 98%;
+  justify-content: center;
+  height: 200px;
+  border-radius: 10px;
+  margin: 10px;
+}
+#details-text {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+#description-container {
+  margin-top: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media only screen and (max-width: 600px) {
+  #gender-img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media only screen and (min-width: 600px) {
+  #gender-img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
