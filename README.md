@@ -1,3 +1,6 @@
+Dream Sports
+Live-site: [link](https://stupefied-swanson-e05f72.netlify.app/)
+
 Features of my project:
 
 1. Using react, react-bootstrap, react-routing, font-awesome.
@@ -10,6 +13,3 @@ Features of my project:
 8. According to gender gender icon and player image will be changed.
 9. Dynamic routing used so that we can understand in which link we are entering.
 10. All the information and images are set dynamically.
-
-
-Link of my website: [link](https://stupefied-swanson-e05f72.netlify.app/)
