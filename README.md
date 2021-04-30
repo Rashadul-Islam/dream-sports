@@ -1,4 +1,4 @@
-Dream Sports
+<h1>Dream Sports<h1>
 
 Live-site: [link](https://stupefied-swanson-e05f72.netlify.app/)
 
